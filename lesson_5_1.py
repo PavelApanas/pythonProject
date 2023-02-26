@@ -21,3 +21,4 @@ def converter(decimal):
     return f'{decimal} в двоичной системе: {binary}, {binary} в десятичной системе: {decimal_from_binary}'
 
 print(converter(1200))
+
