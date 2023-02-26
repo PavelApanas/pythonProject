@@ -20,4 +20,4 @@ def converter(decimal):
     decimal_from_binary = binary_to_decimal(binary)
     return f'{decimal} в двоичной системе: {binary}, {binary} в десятичной системе: {decimal_from_binary}'
 
-print(converter(1200))  # 10 в двоичной системе: 1010, 1010 в десятичной системе: 10
+print(converter(1200))
